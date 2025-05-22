@@ -60,3 +60,43 @@ The dataset includes performance metrics of global universities. This project dr
 1. Clone the repository:
    ```bash
    git clone https://github.com/pavan-analytics/university-ranking-prediction.git
+
+2. Install dependencies:
+   ```bash
+pip install -r requirements.txt
+
+3. Run the Jupyter Notebook or Python script:
+   ```bash
+jupyter notebook University_Ranking_Prediction.ipynb
+
+
+🚀 Future Enhancements
+📊 Feature Engineering:
+Explore and create additional features from raw data (e.g., student-faculty ratio, research score per capita) to improve model accuracy.
+
+🔍 Hyperparameter Tuning:
+Use Grid Search or Randomized Search CV to fine-tune the hyperparameters of models like XGBoost and Random Forest for optimal performance.
+
+📈 Advanced Models:
+Experiment with advanced machine learning algorithms such as:
+
+LightGBM
+
+CatBoost
+
+Neural Networks (e.g., MLPRegressor, TensorFlow/Keras models)
+
+📤 Web Application Deployment:
+Build a web app (e.g., using Streamlit or Flask) where users can input university features and get predicted global rankings instantly.
+
+📂 Real-Time Data Integration:
+Integrate live university datasets from APIs or web scraping to keep the prediction system up to date.
+
+📁 Clustering & Classification:
+Use unsupervised learning (e.g., K-Means) to group similar universities and help in segment analysis or categorization.
+
+🌐 Multi-year Trend Prediction:
+Expand the model to predict future ranking trends by training on historical ranking data across multiple years.
+
+📊 Interactive Dashboards:
+Use tools like Power BI or Tableau to create visual dashboards showing trends, insights, and predictions.
