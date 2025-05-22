@@ -20,8 +20,10 @@ To predict the *world_rank* of universities by applying different regression mod
 
 ## 🗂️ Dataset
 
-- Source: `https://www.kaggle.com/code/shubham8983/university-ranking-prediction`
+- **Source:** [Kaggle - CWUR University Rankings Dataset](https://www.kaggle.com/datasets/saurabhshahane/university-ranking-by-cwur)
 - Description: Includes features such as `institution`, `country`, `broad_impact`, and others relevant to academic ranking.
+
+The dataset includes performance metrics of global universities. This project draws inspiration and structure from the reference notebook.
 
 ---
 
